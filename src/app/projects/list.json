@@ -1,1 +1,72 @@
-[]
+[
+	{
+		"name": "Github文件加速",
+		"year": 2025,
+		"image": "https://i.jpg.dog/9b89ec01216cdd8e0ce92a6d4fe807c0.png",
+		"url": "https://noad.keliyan.top",
+		"description": "提供更快的Github",
+		"tags": [
+			"2025"
+		]
+	},
+	{
+		"name": "在线轻笔记",
+		"year": 2025,
+		"image": "https://i.jpg.dog/08e103507913eb8da44a4d7fc2cd251b.png",
+		"url": "https://i.keliyan.top",
+		"description": "开箱即用的在线协作笔记",
+		"tags": [
+			"2025"
+		]
+	},
+	{
+		"name": "2048",
+		"year": 2026,
+		"image": "https://1680851.v.123pan.cn/1680851/kly/%E7%BD%91%E9%A1%B5logo/pEbQ0C8.png",
+		"url": "https://2048.keliyan.top",
+		"description": "2048小游戏",
+		"tags": [
+			"2026"
+		]
+	},
+	{
+		"name": "贪吃蛇",
+		"year": 2026,
+		"image": "https://1680851.v.123pan.cn/1680851/kly/%E7%BD%91%E9%A1%B5logo/pEbQDgg.png",
+		"url": "https://snake.keliyan.top",
+		"description": "贪吃蛇",
+		"tags": [
+			"2026"
+		]
+	},
+	{
+		"name": "俄罗斯方块",
+		"year": 2026,
+		"image": "https://1680851.v.123pan.cn/1680851/kly/%E7%BD%91%E9%A1%B5logo/pEbQRU0.png",
+		"url": "https://tetris.keliyan.top",
+		"description": "俄罗斯方块",
+		"tags": [
+			"2026"
+		]
+	},
+	{
+		"name": "经典扫雷",
+		"year": 2026,
+		"image": "https://1680851.v.123pan.cn/1680851/kly/%E7%BD%91%E9%A1%B5logo/pEbQd4f.png",
+		"url": "https://minesweeper.keliyan.top",
+		"description": "经典扫雷",
+		"tags": [
+			"2026"
+		]
+	},
+	{
+		"name": "记忆翻牌",
+		"year": 2026,
+		"image": "https://1680851.v.123pan.cn/1680851/kly/%E7%BD%91%E9%A1%B5logo/pEbQW5V.png",
+		"url": "https://fk.keliyan.top",
+		"description": "记忆翻牌",
+		"tags": [
+			"2026"
+		]
+	}
+]
