@@ -1,7 +1,7 @@
 {
 	"meta": {
-		"title": "YYsuni",
-		"description": "YYsuni 的个人博客，记录前端开发、探索、笔记。前端 UI 更新代码仓库。",
+		"title": "克隆羊不是阳",
+		"description": "克隆羊不是阳的小窝啊",
 		"username": "Suni"
 	},
 	"theme": {
@@ -32,7 +32,7 @@
 			"url": "/images/art/a46372ff45bc5524.jpg"
 		}
 	],
-	"currentArtImageId": "a46372ff45bc5524",
+	"currentArtImageId": "cat",
 	"backgroundImages": [
 		{
 			"id": "",
@@ -43,32 +43,32 @@
 	"socialButtons": [
 		{
 			"id": "github",
-			"type": "github",
-			"value": "https://github.com/yysuni",
-			"label": "Github",
+			"type": "tiktok",
+			"value": "https://www.douyin.com/user/MS4wLjABAAAApEMb1M-vibiDlNwTum3FGEhrXVSP2xuRpmBrNLI9TmU?from_tab_name=main",
+			"label": "抖音",
 			"order": 3
 		},
 		{
 			"id": "juejin",
-			"type": "juejin",
-			"value": "https://juejin.cn/user/2427311675422382",
-			"label": "稀土掘金",
+			"type": "tg",
+			"value": "https://t.me/klybsy",
+			"label": "Telegram",
 			"order": 2
 		},
 		{
 			"id": "email",
 			"type": "email",
-			"value": "yysuni1001@gmail.com",
+			"value": "diary@keliyan.top",
 			"label": "",
 			"order": 1
 		}
 	],
-	"clockShowSeconds": false,
+	"clockShowSeconds": true,
 	"summaryInContent": false,
 	"isCachePem": false,
 	"hideEditButton": false,
 	"enableCategories": true,
-	"currentHatIndex": 3,
+	"currentHatIndex": 1,
 	"hatFlipped": false,
 	"enableChristmas": false,
 	"beian": {
