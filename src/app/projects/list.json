@@ -6,7 +6,7 @@
 		"url": "https://noad.keliyan.top",
 		"description": "提供更快的Github",
 		"tags": [
-			"2025"
+			"tools"
 		]
 	},
 	{
@@ -16,7 +16,7 @@
 		"url": "https://i.keliyan.top",
 		"description": "开箱即用的在线协作笔记",
 		"tags": [
-			"2025"
+			"tools"
 		]
 	},
 	{
@@ -26,7 +26,7 @@
 		"url": "https://2048.keliyan.top",
 		"description": "2048小游戏",
 		"tags": [
-			"2026"
+			"games"
 		]
 	},
 	{
@@ -34,9 +34,9 @@
 		"year": 2026,
 		"image": "https://1680851.v.123pan.cn/1680851/kly/%E7%BD%91%E9%A1%B5logo/pEbQDgg.png",
 		"url": "https://snake.keliyan.top",
-		"description": "贪吃蛇",
+		"description": "贪吃蛇小游戏",
 		"tags": [
-			"2026"
+			"games"
 		]
 	},
 	{
@@ -44,9 +44,9 @@
 		"year": 2026,
 		"image": "https://1680851.v.123pan.cn/1680851/kly/%E7%BD%91%E9%A1%B5logo/pEbQRU0.png",
 		"url": "https://tetris.keliyan.top",
-		"description": "俄罗斯方块",
+		"description": "俄罗斯方块小游戏",
 		"tags": [
-			"2026"
+			"games"
 		]
 	},
 	{
@@ -54,9 +54,9 @@
 		"year": 2026,
 		"image": "https://1680851.v.123pan.cn/1680851/kly/%E7%BD%91%E9%A1%B5logo/pEbQd4f.png",
 		"url": "https://minesweeper.keliyan.top",
-		"description": "经典扫雷",
+		"description": "经典扫雷小游戏",
 		"tags": [
-			"2026"
+			"games"
 		]
 	},
 	{
@@ -64,9 +64,9 @@
 		"year": 2026,
 		"image": "https://1680851.v.123pan.cn/1680851/kly/%E7%BD%91%E9%A1%B5logo/pEbQW5V.png",
 		"url": "https://fk.keliyan.top",
-		"description": "记忆翻牌",
+		"description": "记忆翻牌小游戏",
 		"tags": [
-			"2026"
+			"games"
 		]
 	},
 	{
@@ -74,9 +74,9 @@
 		"year": 2026,
 		"image": "https://vip.123pan.cn/1680851/yk6baz03t0n000db8w0dzilsm8dqojq5DIQ1DdYyDGxxAwD=.png",
 		"url": "https://random.keliyan.top",
-		"description": "随机抽号",
+		"description": "随机抽号小工具",
 		"tags": [
-			"2026"
+			"tools"
 		]
 	}
 ]
