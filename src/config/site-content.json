@@ -46,13 +46,6 @@
 			"type": "tiktok",
 			"value": "https://www.douyin.com/user/MS4wLjABAAAApEMb1M-vibiDlNwTum3FGEhrXVSP2xuRpmBrNLI9TmU?from_tab_name=main",
 			"label": "抖音",
-			"order": 3
-		},
-		{
-			"id": "juejin",
-			"type": "tg",
-			"value": "https://t.me/klybsy",
-			"label": "Telegram",
 			"order": 2
 		},
 		{
